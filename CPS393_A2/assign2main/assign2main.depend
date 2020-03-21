@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1573778747 source:c:\users\fizzy\onedrive\cps393\assignment\assignment2\assign2main\main.c
+1573778747 source:c:\users\
 	<stdio.h>
 	<stdlib.h>
 	"assign2funcs.h"
 
-1573776474 c:\users\fizzy\onedrive\cps393\assignment\assignment2\assign2main\assign2funcs.h
+1573776474 c:\users\
 
-1573772255 source:c:\users\fizzy\onedrive\cps393\assignment\assignment2\assign2main\assign2funcs.c
+1573772255 source:c:\users\
 	<stdio.h>
 	<stdlib.h>
 	<stdbool.h>
@@ -15,7 +15,7 @@
 	<ctype.h>
 	"assign2funcs.h"
 
-1573579974 c:\users\fizzy\onedrive\cps393\assignment\assignment2\assign2main\assign2funcs.c
+1573579974 c:\users\
 	<stdio.h>
 	<stdlib.h>
 	<math.h>
